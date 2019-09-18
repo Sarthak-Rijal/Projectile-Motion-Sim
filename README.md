@@ -1,6 +1,4 @@
 # Projectile-Motion-Sim
-It contains a projectile motion algorithm 
+To download pygame go to this website:
+https://www.pygame.org/wiki/GettingStarted
 
-fjkdfjlkfdjlasdfjldfsjlksdfjklfdsjlkdfsjlk
-
-dwag bro 
